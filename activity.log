@@ -565,3 +565,5 @@
 2025-12-02 16:15:00 | INFO | repo=HandBrake | action=pull
 2025-06-21 09:48:00 | WARN | repo=HandBrake | action=pull
 2025-04-07 12:31:00 | WARN | repo=HandBrake | action=commit
+2025-11-28 07:05:00 | DEBUG | repo=HandBrake | action=pull
+2025-02-20 12:47:00 | DEBUG | repo=HandBrake | action=commit
