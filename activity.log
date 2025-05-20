@@ -590,3 +590,5 @@
 2025-12-15 12:50:00 | DEBUG | repo=HandBrake | action=commit
 2025-08-03 19:53:00 | WARN | repo=HandBrake | action=test | passed=true
 2025-01-19 07:34:00 | WARN | repo=HandBrake | action=commit
+2025-07-19 08:14:00 | WARN | repo=HandBrake | action=edit | files=5
+2025-05-20 07:06:00 | WARN | repo=HandBrake | action=commit
